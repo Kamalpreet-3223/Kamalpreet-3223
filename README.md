@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm KAMALPREET SINGH</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalpreet-3223&theme=dark" alt="kamalpreet-3223" /></p>
+
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
 - 🔭 I’m currently working on **...myskills**
@@ -29,6 +31,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalpreet-3223&theme=dark" alt="kamalpreet-3223" /></p>
 
 
